@@ -68,7 +68,7 @@
 [SmartGeiger]: https://github.com/ahnaf-tahmid-chowdhury/SmartGeiger
 [twitter]: https://twitter.com/tahmid__
 [youtube]: https://www.youtube.com/channel/UC1PqPjoQIsjNKmiiALeXYnw
-[instagram]: https://instagram.com/__.ahnaf_tahmid.__
+[instagram]: https://instagram.com/_.ahnaf_tahmid._
 [linkedin]: https://linkedin.com/in/ahnaf-tahmid-
 [HTML]: https://en.wikipedia.org/wiki/HTML
 [CSS]: https://en.wikipedia.org/wiki/CSS
