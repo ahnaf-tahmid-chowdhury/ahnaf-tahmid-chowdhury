@@ -22,7 +22,7 @@
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="padding-left: 10px" /> ][HTML]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="padding-left: 10px"/>][CSS]
-[<img align="left" alt="C" width="26px" src="https://i.ibb.co/Y0KhCLH/c-programming-569564.png" style="padding-left: 10px"/>][C]
+[<img align="left" alt="C" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-left: 10px"/>][C++]
 [<img align="left" alt="Python" width="26px" src="https://i.ibb.co/TqFNKhW/python.png" style="padding-left: 10px"/>][Python]
 [<img align="left" alt="Dart" width="26px" src="https://i.ibb.co/r50Sftr/dart.png" style="padding-left: 10px"/>][Dart]
 [<img align="left" alt="SQL" width="26px" src="https://i.ibb.co/0ZkpFwz/sql.png" style="padding-left: 10px"/>][SQL]
@@ -33,7 +33,7 @@
 [<img align="left" alt="KiCad" width="26px" src="https://i.ibb.co/wy72NNy/logo-kicad.png" style="padding-left: 10px"/>][KiCad]
 [<img align="left" alt="PowerShell" width="26px" src="https://i.ibb.co/VB4qXn1/terminal-png.png" style="padding-left: 10px"/>][PowerShell]
 [<img align="left" alt="Bash" width="26px" src="https://i.ibb.co/74LfZpf/bash.png" style="padding-left: 10px"/>][bash]
-[<img align="left" alt="Micropython" width="26px" src="https://i.ibb.co/pQ4V2nX/Micropython-logo.png" style="padding-left: 10px"/>][Micropython]
+[<img align="left" alt="Micropython" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/MicroPython_new_logo.svg" style="padding-left: 10px"/>][Micropython]
 [<img align="left" alt="Geant4" width="26px" src="https://i.ibb.co/d0Ncms3/g4.png" style="padding-left: 10px"/>][Geant4]
 
 <br /><br />
@@ -73,7 +73,7 @@
 [HTML]: https://en.wikipedia.org/wiki/HTML
 [CSS]: https://en.wikipedia.org/wiki/CSS
 [Python]: https://www.python.org/
-[C]: https://en.wikipedia.org/wiki/C_(programming_language)
+[C++]: https://en.wikipedia.org/wiki/C%2B%2B
 [SQL]: https://en.wikipedia.org/wiki/SQL
 [Dart]: https://dart.dev/
 [PowerShell]: https://docs.microsoft.com/en-us/powershell/
