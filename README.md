@@ -62,7 +62,7 @@
 <br />
   <summary> Wakatime Stats</summary>
 
-![Tahmid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atc&theme=nord&layout=compact)
+![Tahmid's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=atc&theme=nord&layout=compact&v=2)
 
 </details>
 
