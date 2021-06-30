@@ -22,9 +22,9 @@
 
 [<img align ="center" alt="HTML5" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="padding-left: 8px; padding-bottom: 2px;" /> ][HTML]
 [<img align ="center" alt="CSS3" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="padding-left: 8px; padding-bottom: 2px;"/>][CSS]
-[<img align ="center" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-left: 8px; padding-bottom: 2px"/>][Python]
+[<img align ="center" alt="Python" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-left: 8px; padding-bottom: 2px"/>][Python]
 [<img align ="center" alt="C" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-left: 8px; padding-bottom: 2px;"/>][C++]
-[<img align ="center" alt="Dart" width="26px" src="https://i.ibb.co/r50Sftr/dart.png" style="padding-left: 8px; padding-bottom: 2px"/>][Dart]
+[<img align ="center" alt="Dart" width="25px" src="https://i.ibb.co/r50Sftr/dart.png" style="padding-left: 8px; padding-bottom: 2px"/>][Dart]
 [<img align ="center" alt="SQL" width="25px" src="https://i.ibb.co/0ZkpFwz/sql.png" style="padding-left: 8px; padding-bottom: 2px"/>][SQL]
 [<img align ="center" alt="MATLAB" width="25px" src="https://i.ibb.co/WpCSVHT/Matlab-Logo.png" style="padding-left: 5px; padding-bottom: 8px"/>][MATLAB]
 [<img align ="center" alt="PowerShell" width="26px" src="https://i.ibb.co/VB4qXn1/terminal-png.png" style="padding-left: 8px; padding-bottom: 2px"/>][PowerShell]
