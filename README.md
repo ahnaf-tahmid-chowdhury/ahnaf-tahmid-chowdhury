@@ -10,31 +10,31 @@
 
 ### Connect with me:
 
-[<img align ="center" alt="tahmid__ | Twitter" width="25px" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" style="padding-left: 8px"/>][twitter]
+[<img align ="center" alt="tahmid__ | Twitter" width="25px" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" style="padding-left: 10px"/>][twitter]
 [<img align ="center" alt="Youtube | YouTube" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" style="padding-left: 8px"/>][youtube]
-[<img align ="center" alt="ahnaf-tahmid.blogspot.com" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg" style="padding-left: 8px" /> ][website]
-[<img align ="center" alt="ahnaf-tahmid- | LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" style="padding-left: 8px"/>][linkedin]
-[<img align ="center" alt="_.ahnaf_tahmid._ | Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" style="padding-left: 8px"/>][instagram]
-[<img align ="center" alt="Ahnaf-Chowdhury-3 | Ewsearchgate" width="26px" src="https://i.ibb.co/09mWFnm/researchgate.png" style="padding-left: 8px"/>][researchgate]
+[<img align ="center" alt="ahnaf-tahmid.blogspot.com" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/Blogger.svg" style="padding-left: 10px" /> ][website]
+[<img align ="center" alt="ahnaf-tahmid- | LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" style="padding-left: 10px"/>][linkedin]
+[<img align ="center" alt="_.ahnaf_tahmid._ | Instagram" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" style="padding-left: 10px"/>][instagram]
+[<img align ="center" alt="Ahnaf-Chowdhury-3 | Ewsearchgate" width="26px" src="https://i.ibb.co/09mWFnm/researchgate.png" style="padding-left: 10px"/>][researchgate]
 
 
 ### Languages and Tools:
 
-[<img align ="center" alt="HTML5" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="padding-left: 5px; padding-bottom: 2px;" /> ][HTML]
-[<img align ="center" alt="CSS3" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="padding-left: 5px; padding-bottom: 2px;"/>][CSS]
-[<img align ="center" alt="C" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-left: 5px; padding-bottom: 2px;"/>][C++]
-[<img align ="center" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-left: 5px; padding-bottom: 2px"/>][Python]
-[<img align ="center" alt="Dart" width="26px" src="https://i.ibb.co/r50Sftr/dart.png" style="padding-left: 5px; padding-bottom: 2px"/>][Dart]
-[<img align ="center" alt="MATLAB" width="26px" src="https://i.ibb.co/WpCSVHT/Matlab-Logo.png" style="padding-left: 5px; padding-bottom: 2px"/>][MATLAB]
-[<img align ="center" alt="SQL" width="25px" src="https://i.ibb.co/0ZkpFwz/sql.png" style="padding-left: 5px; padding-bottom: 2px"/>][SQL]
-[<img align ="center" alt="PowerShell" width="26px" src="https://i.ibb.co/VB4qXn1/terminal-png.png" style="padding-left: 5px; padding-bottom: 2px"/>][PowerShell]
-[<img align ="center" alt="Bash" width="26px" src="https://i.ibb.co/74LfZpf/bash.png" style="padding-left: 5px; padding-bottom: 2px"/>][bash]
-[<img align ="center" alt="Visual Studio Code" width="25px" src="https://i.ibb.co/LxmRHwx/Visual-Studio-Code-1-35-icon-svg.png" style="padding-left: 5px; padding-bottom: 2px"/>][vscode]
-[<img align ="center" alt="Azure" width="25px" src="https://i.ibb.co/2v3632y/azure.png" style="padding-left: 5px; padding-bottom: 2px"/>][Azure]
-[<img align ="center" alt="Node-RED" width="25px" src="https://i.ibb.co/cDW8L6D/node-red-hexagon.png" style="padding-left: 5px; padding-bottom: 2px"/>][Node-RED]
-[<img align ="center" alt="KiCad" width="25px" src="https://i.ibb.co/wy72NNy/logo-kicad.png" style="padding-left: 5px; padding-bottom: 2px"/>][KiCad]
-[<img align ="center" alt="Micropython" width="25px" src="https://i.ibb.co/YR662FL/micropython.jpg" style="padding-left: 5px; padding-bottom: 2px"/>][Micropython]
-[<img align ="center" alt="Geant4" width="26px" src="https://i.ibb.co/d0Ncms3/g4.png" style="padding-left: 5px; padding-bottom: 2px"/>][Geant4]
+[<img align ="center" alt="HTML5" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="padding-left: 8px; padding-bottom: 2px;" /> ][HTML]
+[<img align ="center" alt="CSS3" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="padding-left: 8px; padding-bottom: 2px;"/>][CSS]
+[<img align ="center" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-left: 8px; padding-bottom: 2px"/>][Python]
+[<img align ="center" alt="C" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-left: 8px; padding-bottom: 2px;"/>][C++]
+[<img align ="center" alt="Dart" width="26px" src="https://i.ibb.co/r50Sftr/dart.png" style="padding-left: 8px; padding-bottom: 2px"/>][Dart]
+[<img align ="center" alt="SQL" width="25px" src="https://i.ibb.co/0ZkpFwz/sql.png" style="padding-left: 8px; padding-bottom: 2px"/>][SQL]
+[<img align ="center" alt="MATLAB" width="25px" src="https://i.ibb.co/WpCSVHT/Matlab-Logo.png" style="padding-left: 5px; padding-bottom: 8px"/>][MATLAB]
+[<img align ="center" alt="PowerShell" width="26px" src="https://i.ibb.co/VB4qXn1/terminal-png.png" style="padding-left: 8px; padding-bottom: 2px"/>][PowerShell]
+[<img align ="center" alt="Bash" width="26px" src="https://i.ibb.co/74LfZpf/bash.png" style="padding-left: 8px; padding-bottom: 2px"/>][bash]
+[<img align ="center" alt="Visual Studio Code" width="25px" src="https://i.ibb.co/LxmRHwx/Visual-Studio-Code-1-35-icon-svg.png" style="padding-left: 8px; padding-bottom: 2px"/>][vscode]
+[<img align ="center" alt="Azure" width="25px" src="https://i.ibb.co/2v3632y/azure.png" style="padding-left: 8px; padding-bottom: 2px"/>][Azure]
+[<img align ="center" alt="Node-RED" width="25px" src="https://i.ibb.co/cDW8L6D/node-red-hexagon.png" style="padding-left: 8px; padding-bottom: 2px"/>][Node-RED]
+[<img align ="center" alt="KiCad" width="25px" src="https://i.ibb.co/wy72NNy/logo-kicad.png" style="padding-left: 8px; padding-bottom: 2px"/>][KiCad]
+[<img align ="center" alt="Micropython" width="25px" src="https://i.ibb.co/YR662FL/micropython.jpg" style="padding-left: 8px; padding-bottom: 2px"/>][Micropython]
+[<img align ="center" alt="Geant4" width="26px" src="https://i.ibb.co/d0Ncms3/g4.png" style="padding-left: 8px; padding-bottom: 2px"/>][Geant4]
 
 ---
 
