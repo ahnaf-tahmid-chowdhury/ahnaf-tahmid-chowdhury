@@ -1,4 +1,4 @@
-### Hi there, I'm Tahmid 👋
+### Hi there, I'm Tahmid 👋 ![](https://hit.yhype.me/github/profile?user_id=68775305)
 
 ## Studying Nuclear Engineering 
 
