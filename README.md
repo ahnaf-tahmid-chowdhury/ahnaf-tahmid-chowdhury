@@ -1,4 +1,4 @@
-### Hi there, I'm Tahmid 👋 ![](https://hit.yhype.me/github/profile?user_id=68775305)
+### Hi there, I'm Tahmid 👋 
 
 ## Studying Nuclear Engineering 
 
@@ -20,21 +20,21 @@
 
 ### Languages and Tools:
 
-[<img align ="center" alt="HTML5" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="padding-left: 8px; padding-bottom: 2px;" /> ][HTML]
-[<img align ="center" alt="CSS3" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="padding-left: 8px; padding-bottom: 2px;"/>][CSS]
-[<img align ="center" alt="Python" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-left: 8px; padding-bottom: 2px"/>][Python]
-[<img align ="center" alt="C" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-left: 8px; padding-bottom: 2px;"/>][C++]
-[<img align ="center" alt="Dart" width="25px" src="https://i.ibb.co/r50Sftr/dart.png" style="padding-left: 8px; padding-bottom: 2px"/>][Dart]
-[<img align ="center" alt="SQL" width="25px" src="https://i.ibb.co/0ZkpFwz/sql.png" style="padding-left: 8px; padding-bottom: 2px"/>][SQL]
-[<img align ="center" alt="MATLAB" width="25px" src="https://i.ibb.co/WpCSVHT/Matlab-Logo.png" style="padding-left: 5px; padding-bottom: 8px"/>][MATLAB]
-[<img align ="center" alt="PowerShell" width="26px" src="https://i.ibb.co/VB4qXn1/terminal-png.png" style="padding-left: 8px; padding-bottom: 2px"/>][PowerShell]
-[<img align ="center" alt="Bash" width="26px" src="https://i.ibb.co/74LfZpf/bash.png" style="padding-left: 8px; padding-bottom: 2px"/>][bash]
-[<img align ="center" alt="Visual Studio Code" width="25px" src="https://i.ibb.co/LxmRHwx/Visual-Studio-Code-1-35-icon-svg.png" style="padding-left: 8px; padding-bottom: 2px"/>][vscode]
-[<img align ="center" alt="Azure" width="25px" src="https://i.ibb.co/2v3632y/azure.png" style="padding-left: 8px; padding-bottom: 2px"/>][Azure]
-[<img align ="center" alt="Node-RED" width="25px" src="https://i.ibb.co/cDW8L6D/node-red-hexagon.png" style="padding-left: 8px; padding-bottom: 2px"/>][Node-RED]
-[<img align ="center" alt="KiCad" width="25px" src="https://i.ibb.co/wy72NNy/logo-kicad.png" style="padding-left: 8px; padding-bottom: 2px"/>][KiCad]
-[<img align ="center" alt="Micropython" width="25px" src="https://i.ibb.co/YR662FL/micropython.jpg" style="padding-left: 8px; padding-bottom: 2px"/>][Micropython]
-[<img align ="center" alt="Geant4" width="26px" src="https://i.ibb.co/d0Ncms3/g4.png" style="padding-left: 8px; padding-bottom: 2px"/>][Geant4]
+[<img align ="center" alt="HTML5" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" style="padding-left: 8px; padding-bottom: 2px;" /> ][HTML]
+[<img align ="center" alt="CSS3" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" style="padding-left: 8px; padding-bottom: 2px;"/>][CSS]
+[<img align ="center" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" style="padding-left: 8px; padding-bottom: 2px"/>][Python]
+[<img align ="center" alt="C" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" style="padding-left: 8px; padding-bottom: 2px;"/>][C++]
+[<img align ="center" alt="Dart" width="32px" src="https://i.ibb.co/r50Sftr/dart.png" style="padding-left: 8px; padding-bottom: 2px"/>][Dart]
+[<img align ="center" alt="SQL" width="32px" src="https://i.ibb.co/0ZkpFwz/sql.png" style="padding-left: 8px; padding-bottom: 2px"/>][SQL]
+[<img align ="center" alt="MATLAB" width="30px" src="https://i.ibb.co/WpCSVHT/Matlab-Logo.png" style="padding-left: 5px; padding-bottom: 8px"/>][MATLAB]
+[<img align ="center" alt="PowerShell" width="34px" src="https://i.ibb.co/VB4qXn1/terminal-png.png" style="padding-left: 8px; padding-bottom: 2px"/>][PowerShell]
+[<img align ="center" alt="Bash" width="32px" src="https://i.ibb.co/74LfZpf/bash.png" style="padding-left: 8px; padding-bottom: 2px"/>][bash]
+[<img align ="center" alt="Visual Studio Code" width="32px" src="https://i.ibb.co/LxmRHwx/Visual-Studio-Code-1-35-icon-svg.png" style="padding-left: 8px; padding-bottom: 2px"/>][vscode]
+[<img align ="center" alt="Azure" width="32px" src="https://i.ibb.co/2v3632y/azure.png" style="padding-left: 8px; padding-bottom: 2px"/>][Azure]
+[<img align ="center" alt="Node-RED" width="32px" src="https://i.ibb.co/cDW8L6D/node-red-hexagon.png" style="padding-left: 8px; padding-bottom: 2px"/>][Node-RED]
+[<img align ="center" alt="KiCad" width="32px" src="https://i.ibb.co/wy72NNy/logo-kicad.png" style="padding-left: 8px; padding-bottom: 2px"/>][KiCad]
+[<img align ="center" alt="Micropython" width="32px" src="https://i.ibb.co/YR662FL/micropython.jpg" style="padding-left: 8px; padding-bottom: 2px"/>][Micropython]
+[<img align ="center" alt="Geant4" width="35px" src="https://i.ibb.co/d0Ncms3/g4.png" style="padding-left: 8px; padding-bottom: 2px"/>][Geant4]
 
 ---
 
@@ -43,6 +43,8 @@
 <summary> GitHub Stats </summary>
 
 ![Tahmid's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnaf-tahmid-Chowdhury&count_private=true&theme=nord&show_icons=true)
+
+<img width="120px" align ="top" src="https://komarev.com/ghpvc/?username=ahnaf-tahmid-chowdhury&color=red " ><br />
 
 </details>
 
@@ -62,6 +64,9 @@
 
 </details>
 
+
+
+![](https://hit.yhype.me/github/profile?user_id=68775305)
 
 [website]: https://ahnaf-tahmid.blogspot.com
 [SmartGeiger]: https://github.com/ahnaf-tahmid-chowdhury/SmartGeiger
