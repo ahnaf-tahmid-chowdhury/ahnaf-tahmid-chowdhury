@@ -10,29 +10,29 @@
 
 ### Connect with me:
 
-[<img align ="center" alt="tahmid__ | Twitter" width="25px" src=".github/icons/twitter_icon.svg" style="padding-left: 10px"/>][twitter]
-[<img align ="center" alt="Youtube | YouTube" width="35px" src=".github/icons/youtube_icon.svg" style="padding-left: 8px"/>][youtube]
-[<img align ="center" alt="ahnaf-tahmid.blogspot.com" width="26px" src=".github/icons/blogger_icon.svg" style="padding-left: 10px" /> ][website]
-[<img align ="center" alt="ahnaf-tahmid- | LinkedIn" width="26px" src=".github/icons/linkedin_icon.svg" style="padding-left: 10px"/>][linkedin]
-[<img align ="center" alt="_.ahnaf_tahmid._ | Instagram" width="26px" src=".github/icons/instagram_icon.svg" style="padding-left: 10px"/>][instagram]
-[<img align ="center" alt="Ahnaf-Chowdhury-3 | Ewsearchgate" width="24px" src=".github/icons/researchgate_icon.svg" style="padding-left: 10px"/>][researchgate]
+[<img align ="center" alt="tahmid__ | Twitter" width="25px" src=".github/icons/twitter_icon.svg" style="padding-left: 15px"/>][twitter]
+[<img align ="center" alt="Youtube | YouTube" width="35px" src=".github/icons/youtube_icon.svg" style="padding-left: 15px"/>][youtube]
+[<img align ="center" alt="ahnaf-tahmid.blogspot.com" width="26px" src=".github/icons/blogger_icon.svg" style="padding-left: 15px" /> ][website]
+[<img align ="center" alt="ahnaf-tahmid- | LinkedIn" width="26px" src=".github/icons/linkedin_icon.svg" style="padding-left: 15px"/>][linkedin]
+[<img align ="center" alt="_.ahnaf_tahmid._ | Instagram" width="26px" src=".github/icons/instagram_icon.svg" style="padding-left: 15px"/>][instagram]
+[<img align ="center" alt="Ahnaf-Chowdhury-3 | Ewsearchgate" width="24px" src=".github/icons/researchgate_icon.svg" style="padding-left: 15px"/>][researchgate]
 
 
 ### Languages and Tools:
 
-[<img align ="center" alt="HTML5" width="25px" src=".github/icons/html_icon.svg" style="padding-left: 8px; padding-bottom: 2px;" /> ][HTML]
-[<img align ="center" alt="CSS3" width="25px" src=".github/icons/css_icon.svg" style="padding-left: 8px; padding-bottom: 2px;"/>][CSS]
-[<img align ="center" alt="Python" width="25px" src=".github/icons/python_icon.svg" style="padding-left: 8px; padding-bottom: 2px"/>][Python]
-[<img align ="center" alt="C++" width="25px" src=".github/icons/c++_icon.svg" style="padding-left: 8px; padding-bottom: 2px;"/>][C++]
-[<img align ="center" alt="Dart" width="24px" src=".github/icons/dart_icon.svg" style="padding-left: 8px; padding-bottom: 2px"/>][Dart]
-[<img align ="center" alt="MATLAB" width="32px" src=".github/icons/matlab_icon.svg" style="padding-left: 3px;; padding-bottom: 8px"/>][MATLAB]
-[<img align ="center" alt="PowerShell" width="25px" src=".github/icons/powershell_icon.svg" style="padding-left: 8px; padding-bottom: 2px"/>][PowerShell]
-[<img align ="center" alt="Visual Studio Code" width="25px" src=".github/icons/vscode_icon.svg" style="padding-left: 8px; padding-bottom: 2px"/>][vscode]
-[<img align ="center" alt="Azure" width="25px" src=".github/icons/azure_icon.svg" style="padding-left: 8px; padding-bottom: 2px"/>][Azure]
-[<img align ="center" alt="Node-RED" width="25px" src=".github/icons/nodered_icon.svg" style="padding-left: 8px; padding-bottom: 2px"/>][Node-RED]
-[<img align ="center" alt="KiCad" width="25px" src=".github/icons/KiCad_icon.svg" style="padding-left: 8px; padding-bottom: 2px"/>][KiCad]
-[<img align ="center" alt="Micropython" width="25px" src=".github/icons/micropython_icon.svg" style="padding-left: 8px; padding-bottom: 2px"/>][Micropython]
-[<img align ="center" alt="Geant4" width="25px" src=".github/icons/geant4_icon.svg" style="padding-left: 8px; padding-bottom: 2px"/>][Geant4]
+[<img align ="center" alt="HTML5" width="25px" src=".github/icons/html_icon.svg" style="padding-left: 12px; padding-bottom: 2px;" /> ][HTML]
+[<img align ="center" alt="CSS3" width="25px" src=".github/icons/css_icon.svg" style="padding-left: 12px; padding-bottom: 2px;"/>][CSS]
+[<img align ="center" alt="Python" width="25px" src=".github/icons/python_icon.svg" style="padding-left: 12px; padding-bottom: 2px"/>][Python]
+[<img align ="center" alt="C++" width="25px" src=".github/icons/c++_icon.svg" style="padding-left: 12px; padding-bottom: 2px;"/>][C++]
+[<img align ="center" alt="Dart" width="24px" src=".github/icons/dart_icon.svg" style="padding-left: 12px; padding-bottom: 2px"/>][Dart]
+[<img align ="center" alt="MATLAB" width="32px" src=".github/icons/matlab_icon.svg" style="padding-left: 5px;; padding-bottom: 8px"/>][MATLAB]
+[<img align ="center" alt="PowerShell" width="25px" src=".github/icons/powershell_icon.svg" style="padding-left: 12px; padding-bottom: 2px"/>][PowerShell]
+[<img align ="center" alt="Visual Studio Code" width="25px" src=".github/icons/vscode_icon.svg" style="padding-left: 12px; padding-bottom: 2px"/>][vscode]
+[<img align ="center" alt="Azure" width="25px" src=".github/icons/azure_icon.svg" style="padding-left: 12px; padding-bottom: 2px"/>][Azure]
+[<img align ="center" alt="Node-RED" width="25px" src=".github/icons/nodered_icon.svg" style="padding-left: 12px; padding-bottom: 2px"/>][Node-RED]
+[<img align ="center" alt="KiCad" width="25px" src=".github/icons/KiCad_icon.svg" style="padding-left: 12px; padding-bottom: 2px"/>][KiCad]
+[<img align ="center" alt="Micropython" width="25px" src=".github/icons/micropython_icon.svg" style="padding-left: 12px; padding-bottom: 2px"/>][Micropython]
+[<img align ="center" alt="Geant4" width="25px" src=".github/icons/geant4_icon.svg" style="padding-left: 12px; padding-bottom: 2px"/>][Geant4]
 
 ---
 
