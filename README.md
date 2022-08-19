@@ -1,10 +1,10 @@
 ### Hi there, I'm Tahmid 👋<img  align ="right" src="https://komarev.com/ghpvc/?username=ahnaf-tahmid-chowdhury&color=red&label=👁 " style="margin-top: 2.5px" >
 
-## Studying Nuclear Engineering
+## Nuclear Engineer
 
-- 🔭 I am currently working on [SmartGeiger][smartgeiger]!
+- 🔭 I am currently working on [Osmocom GUI][osmo-gui]!
 - 🌱 I’m currently learning Django
-- 👯 I’m looking for research opportunities in nuclear safety and security
+- 👯 I’m looking for R&D opportunities in nuclear safety and security
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love music and playing guitar
 
@@ -15,11 +15,11 @@
 [<img align ="center" alt="ahnaf-tahmid.blogspot.com" width="26px" src=".github/icons/blogger_icon.svg" style="margin-left: 15px" /> ][website]
 [<img align ="center" alt="ahnaf-tahmid- | LinkedIn" width="26px" src=".github/icons/linkedin_icon.svg" style="margin-left: 15px"/>][linkedin]
 [<img align ="center" alt="_.ahnaf_tahmid._ | Instagram" width="26px" src=".github/icons/instagram_icon.svg" style="margin-left: 15px"/>][instagram]
-[<img align ="center" alt="Ahnaf-Chowdhury-3 | Ewsearchgate" width="24px" src=".github/icons/researchgate_icon.svg" style="margin-left: 15px"/>][researchgate]
+[<img align ="center" alt="Ahnaf-Tahmid-Chowdhury | Rsearchgate" width="24px" src=".github/icons/researchgate_icon.svg" style="margin-left: 15px"/>][researchgate]
 
 ### Languages and Tools:
 
-[<img align ="center" alt="HTML5" width="25px" src=".github/icons/html_icon.svg" style="margin-left: 12px; margin-bottom: 2px;" /> ][html]
+[<img align ="center" alt="HTML5" width="25px" src=".github/icons/html_icon.svg" style="margin-left: 12px; margin-bottom: 2px;"/> ][html]
 [<img align ="center" alt="CSS3" width="25px" src=".github/icons/css_icon.svg" style="margin-left: 12px; margin-bottom: 2px;"/>][css]
 [<img align ="center" alt="JavaScript" width="25px" src=".github/icons/javascript_icon.svg" style="margin-left: 12px; margin-bottom: 2px;"/>][javascript]
 [<img align ="center" alt="Python" width="25px" src=".github/icons/python_icon.svg" style="margin-left: 12px; margin-bottom: 2px"/>][python]
@@ -42,7 +42,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=68775305)
 
 [website]: https://ahnaf-tahmid.blogspot.com
-[smartgeiger]: https://github.com/ahnaf-tahmid-chowdhury/SmartGeiger
+[osmo-gui]: https://github.com/ahnaf-tahmid-chowdhury/osmo-gui
 [twitter]: https://twitter.com/tahmid__
 [youtube]: https://www.youtube.com/channel/UC1PqPjoQIsjNKmiiALeXYnw
 [instagram]: https://instagram.com/_.ahnaf_tahmid._
