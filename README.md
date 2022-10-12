@@ -1,9 +1,9 @@
-### Hi there, I'm Tahmid 👋<img  align ="right" src="https://komarev.com/ghpvc/?username=ahnaf-tahmid-chowdhury&color=red&label=👁 " style="margin-top: 2.5px" >
+### Hi there, I'm Tahmid 👋<img  align ="right" src="https://komarev.com/ghpvc/?username=ahnaf-tahmid-chowdhury&color=green&label=👁 " style="margin-top: 2.5px" >
 
 ## Nuclear Engineer
 
 - 🔭 I am currently working on [Osmocom GUI][osmo-gui]!
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Flutter
 - 👯 I’m looking for R&D opportunities in nuclear safety and security
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love music and playing guitar
@@ -33,11 +33,9 @@
 [<img align ="center" alt="Node-RED" width="25px" src=".github/icons/nodered_icon.svg" style="margin-left: 12px; margin-bottom: 2px"/>][node-red]
 [<img align ="center" alt="KiCad" width="25px" src=".github/icons/KiCad_icon.svg" style="margin-left: 12px; margin-bottom: 2px"/>][kicad]
 
----
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ahnaf-tahmid-chowdhury&hide_border=true&background=00000000&stroke=B6B6B6&border=B6B6B6&ring=70DD72EB&fire=70DD72EB&currStreakNum=70DD72EB&sideNums=70DD72EB&currStreakLabel=70DD72EB&sideLabels=70DD72EB&dates=70DD72EB" style="width:100%;max-width:40rem;">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=atc&theme=nord&layout=compact&v=2" style="width:100%" >
-
----
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=atc&layout=compact&v=2&hide_border=true&bg_color=00000000&title_color=70DD72EB&text_color=70DD72EB" style="width:100%;max-width:40rem;" >
 
 ![](https://hit.yhype.me/github/profile?user_id=68775305)
 
