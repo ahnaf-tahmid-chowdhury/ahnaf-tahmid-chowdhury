@@ -37,6 +37,8 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=atc&layout=compact&v=2&hide_border=true&bg_color=00000000&title_color=70DD72EB&text_color=70DD72EB" style="width:100%;max-width:40rem;" >
 
+<div style="position: absolute; width:100%;height:100%; top:0;left:0; background-color:#22272E; z-index: -1;"></div>
+
 ![](https://hit.yhype.me/github/profile?user_id=68775305)
 
 [website]: https://ahnaf-tahmid.blogspot.com
