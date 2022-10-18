@@ -3,7 +3,7 @@
 ## Nuclear Engineer
 
 - 🔭 I am currently working on [Osmocom GUI][osmo-gui]!
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Kivy
 - 👯 I’m looking for R&D opportunities in nuclear safety and security
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love music and playing guitar
@@ -25,8 +25,7 @@
 [<img align ="center" alt="Python" width="25px" src=".github/icons/python_icon.svg" style="margin-left: 12px; margin-bottom: 2px"/>][python]
 [<img align ="center" alt="C++" width="25px" src=".github/icons/c++_icon.svg" style="margin-left: 12px; margin-bottom: 2px;"/>][c++]
 [<img align ="center" alt="Dart" width="24px" src=".github/icons/dart_icon.svg" style="margin-left: 12px; margin-bottom: 2px"/>][dart]
-[<img align ="center" alt="MATLAB" width="32px" src=".github/icons/matlab_icon.svg" style="margin-left: 5px;; margin-bottom: 8px"/>][matlab]
-[<img align ="center" alt="PowerShell" width="25px" src=".github/icons/powershell_icon.svg" style="margin-left: 12px; margin-bottom: 2px"/>][powershell]
+[<img align ="center" alt="Bash" width="27px" src=".github/icons/bash_icon.svg" style="margin-left: 12px; margin-bottom: 2px"/>][bash]
 [<img align ="center" alt="Visual Studio Code" width="25px" src=".github/icons/vscode_icon.svg" style="margin-left: 12px; margin-bottom: 2px"/>][vscode]
 [<img align ="center" alt="Azure" width="25px" src=".github/icons/azure_icon.svg" style="margin-left: 12px; margin-bottom: 2px"/>][azure]
 [<img align ="center" alt="Node-RED" width="25px" src=".github/icons/postgresql_icon.svg" style="margin-left: 12px; margin-bottom: 2px"/>][postgresql]
@@ -52,7 +51,7 @@
 [python]: https://www.python.org/
 [c++]: https://en.wikipedia.org/wiki/C%2B%2B
 [dart]: https://dart.dev/
-[powershell]: https://docs.microsoft.com/en-us/powershell/
+[bash]: https://www.gnu.org/software/bash/
 [matlab]: https://www.mathworks.com/products/matlab.html
 [node-red]: https://nodered.org/
 [postgresql]: https://www.postgresql.org/
