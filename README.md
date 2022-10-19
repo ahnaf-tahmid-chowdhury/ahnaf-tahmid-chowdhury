@@ -10,27 +10,27 @@
 
 ### Connect with me:
 
-[<img align ="center" alt="tahmid__ | Twitter" width="25px" src=".github/icons/twitter_icon.svg" style="margin-left: 15px"/>][twitter]
-[<img align ="center" alt="Youtube | YouTube" width="35px" src=".github/icons/youtube_icon.svg" style="margin-left: 15px"/>][youtube]
-[<img align ="center" alt="ahnaf-tahmid.blogspot.com" width="26px" src=".github/icons/blogger_icon.svg" style="margin-left: 15px" /> ][website]
-[<img align ="center" alt="ahnaf-tahmid- | LinkedIn" width="26px" src=".github/icons/linkedin_icon.svg" style="margin-left: 15px"/>][linkedin]
-[<img align ="center" alt="_.ahnaf_tahmid._ | Instagram" width="26px" src=".github/icons/instagram_icon.svg" style="margin-left: 15px"/>][instagram]
-[<img align ="center" alt="Ahnaf-Tahmid-Chowdhury | Rsearchgate" width="24px" src=".github/icons/researchgate_icon.svg" style="margin-left: 15px"/>][researchgate]
+[<img align ="center" alt="tahmid__ | Twitter" height="25px" src=".github/icons/twitter_icon.svg" style="margin-left: 15px"/>][twitter]
+[<img align ="center" alt="Youtube | YouTube" height="25px" src=".github/icons/youtube_icon.svg" style="margin-left: 15px"/>][youtube]
+[<img align ="center" alt="ahnaf-tahmid.blogspot.com" height="25px" src=".github/icons/blogger_icon.svg" style="margin-left: 15px" /> ][website]
+[<img align ="center" alt="ahnaf-tahmid- | LinkedIn" height="25px" src=".github/icons/linkedin_icon.svg" style="margin-left: 15px"/>][linkedin]
+[<img align ="center" alt="_.ahnaf_tahmid._ | Instagram" height="25px" src=".github/icons/instagram_icon.svg" style="margin-left: 15px"/>][instagram]
+[<img align ="center" alt="Ahnaf-Tahmid-Chowdhury | Rsearchgate" height="25px" src=".github/icons/researchgate_icon.svg" style="margin-left: 15px"/>][researchgate]
 
 ### Languages and Tools:
 
-[<img align ="center" alt="HTML5" width="25px" src=".github/icons/html_icon.svg" style="margin-left: 12px; margin-bottom: 2px;"/> ][html]
-[<img align ="center" alt="CSS3" width="25px" src=".github/icons/css_icon.svg" style="margin-left: 12px; margin-bottom: 2px;"/>][css]
-[<img align ="center" alt="JavaScript" width="25px" src=".github/icons/javascript_icon.svg" style="margin-left: 12px; margin-bottom: 2px;"/>][javascript]
-[<img align ="center" alt="Python" width="25px" src=".github/icons/python_icon.svg" style="margin-left: 12px; margin-bottom: 2px"/>][python]
-[<img align ="center" alt="C++" width="25px" src=".github/icons/c++_icon.svg" style="margin-left: 12px; margin-bottom: 2px;"/>][c++]
-[<img align ="center" alt="Dart" width="24px" src=".github/icons/dart_icon.svg" style="margin-left: 12px; margin-bottom: 2px"/>][dart]
-[<img align ="center" alt="Bash" width="27px" src=".github/icons/bash_icon.svg" style="margin-left: 12px; margin-bottom: 2px"/>][bash]
-[<img align ="center" alt="Visual Studio Code" width="25px" src=".github/icons/vscode_icon.svg" style="margin-left: 12px; margin-bottom: 2px"/>][vscode]
-[<img align ="center" alt="Azure" width="25px" src=".github/icons/azure_icon.svg" style="margin-left: 12px; margin-bottom: 2px"/>][azure]
-[<img align ="center" alt="Node-RED" width="25px" src=".github/icons/postgresql_icon.svg" style="margin-left: 12px; margin-bottom: 2px"/>][postgresql]
-[<img align ="center" alt="Node-RED" width="25px" src=".github/icons/nodered_icon.svg" style="margin-left: 12px; margin-bottom: 2px"/>][node-red]
-[<img align ="center" alt="KiCad" width="25px" src=".github/icons/KiCad_icon.svg" style="margin-left: 12px; margin-bottom: 2px"/>][kicad]
+[<img align ="center" alt="HTML5" src=".github/icons/html_icon.svg" style="height:25px;height:25px;margin-left: 12px; margin-bottom: 6px;"/> ][html]
+[<img align ="center" alt="CSS3"  src=".github/icons/css_icon.svg" style="height:25px;height:25px;margin-left: 12px; margin-bottom: 6px;"/>][css]
+[<img align ="center" alt="JavaScript"  src=".github/icons/javascript_icon.svg" style="height:25px;height:25px;margin-left: 12px; margin-bottom: 6px;"/>][javascript]
+[<img align ="center" alt="Python"  src=".github/icons/python_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px"/>][python]
+[<img align ="center" alt="C++"  src=".github/icons/c++_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px;"/>][c++]
+[<img align ="center" alt="Dart" src=".github/icons/dart_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px"/>][dart]
+[<img align ="center" alt="Bash" src=".github/icons/bash_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px"/>][bash]
+[<img align ="center" alt="Visual Studio Code"  src=".github/icons/vscode_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px"/>][vscode]
+[<img align ="center" alt="Azure"  src=".github/icons/azure_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px"/>][azure]
+[<img align ="center" alt="Node-RED"  src=".github/icons/postgresql_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px"/>][postgresql]
+[<img align ="center" alt="Node-RED"  src=".github/icons/nodered_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px"/>][node-red]
+[<img align ="center" alt="KiCad"  src=".github/icons/KiCad_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px"/>][kicad]
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ahnaf-tahmid-chowdhury&hide_border=true&background=00000000&stroke=B6B6B6&border=B6B6B6&ring=70DD72EB&fire=70DD72EB&currStreakNum=70DD72EB&sideNums=70DD72EB&currStreakLabel=70DD72EB&sideLabels=70DD72EB&dates=70DD72EB" style="width:100%;max-width:40rem;">
 
