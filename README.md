@@ -19,18 +19,18 @@
 
 ### Languages and Tools:
 
-[<img align ="center" alt="HTML5" src=".github/icons/html_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px;"/> ][html]
-[<img align ="center" alt="CSS3"  src=".github/icons/css_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px;"/>][css]
-[<img align ="center" alt="JavaScript"  src=".github/icons/javascript_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px;"/>][javascript]
-[<img align ="center" alt="Python"  src=".github/icons/python_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px"/>][python]
-[<img align ="center" alt="C++"  src=".github/icons/c++_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px;"/>][c++]
-[<img align ="center" alt="Dart" src=".github/icons/dart_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px"/>][dart]
-[<img align ="center" alt="Bash" src=".github/icons/bash_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px"/>][bash]
-[<img align ="center" alt="Visual Studio Code"  src=".github/icons/vscode_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px"/>][vscode]
-[<img align ="center" alt="Azure"  src=".github/icons/azure_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px"/>][azure]
-[<img align ="center" alt="Node-RED"  src=".github/icons/postgresql_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px"/>][postgresql]
-[<img align ="center" alt="Node-RED"  src=".github/icons/nodered_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px"/>][node-red]
-[<img align ="center" alt="KiCad"  src=".github/icons/KiCad_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px"/>][kicad]
+[<img align ="center" alt="HTML5" src=".github/icons/html_icon.svg" height="25px" style="margin-left: 12px; margin-bottom: 6px;"/> ][html]
+[<img align ="center" alt="CSS3"  src=".github/icons/css_icon.svg" height="25px" style="margin-left: 12px; margin-bottom: 6px;"/>][css]
+[<img align ="center" alt="JavaScript"  src=".github/icons/javascript_icon.svg" height="25px" style="margin-left: 12px; margin-bottom: 6px;"/>][javascript]
+[<img align ="center" alt="Python"  src=".github/icons/python_icon.svg" height="25px" style="margin-left: 12px; margin-bottom: 6px"/>][python]
+[<img align ="center" alt="C++"  src=".github/icons/c++_icon.svg" height="25px" style="margin-left: 12px; margin-bottom: 6px;"/>][c++]
+[<img align ="center" alt="Dart" src=".github/icons/dart_icon.svg" height="25px" style="margin-left: 12px; margin-bottom: 6px"/>][dart]
+[<img align ="center" alt="Bash" src=".github/icons/bash_icon.svg" height="25px" style="margin-left: 12px; margin-bottom: 6px"/>][bash]
+[<img align ="center" alt="Visual Studio Code"  src=".github/icons/vscode_icon.svg" height="25px" style="margin-left: 12px; margin-bottom: 6px"/>][vscode]
+[<img align ="center" alt="Azure"  src=".github/icons/azure_icon.svg" height="25px" style="margin-left: 12px; margin-bottom: 6px"/>][azure]
+[<img align ="center" alt="Node-RED"  src=".github/icons/postgresql_icon.svg" height="25px" style="margin-left: 12px; margin-bottom: 6px"/>][postgresql]
+[<img align ="center" alt="Node-RED"  src=".github/icons/nodered_icon.svg" height="25px" style="margin-left: 12px; margin-bottom: 6px"/>][node-red]
+[<img align ="center" alt="KiCad"  src=".github/icons/KiCad_icon.svg" height="25px" style="margin-left: 12px; margin-bottom: 6px"/>][kicad]
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ahnaf-tahmid-chowdhury&hide_border=true&background=00000000&stroke=B6B6B6&border=B6B6B6&ring=70DD72EB&fire=70DD72EB&currStreakNum=70DD72EB&sideNums=70DD72EB&currStreakLabel=70DD72EB&sideLabels=70DD72EB&dates=70DD72EB" style="width:100%;max-width:40rem;">
 
