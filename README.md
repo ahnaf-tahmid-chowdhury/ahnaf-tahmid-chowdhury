@@ -19,9 +19,9 @@
 
 ### Languages and Tools:
 
-[<img align ="center" alt="HTML5" src=".github/icons/html_icon.svg" style="height:25px;height:25px;margin-left: 12px; margin-bottom: 6px;"/> ][html]
-[<img align ="center" alt="CSS3"  src=".github/icons/css_icon.svg" style="height:25px;height:25px;margin-left: 12px; margin-bottom: 6px;"/>][css]
-[<img align ="center" alt="JavaScript"  src=".github/icons/javascript_icon.svg" style="height:25px;height:25px;margin-left: 12px; margin-bottom: 6px;"/>][javascript]
+[<img align ="center" alt="HTML5" src=".github/icons/html_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px;"/> ][html]
+[<img align ="center" alt="CSS3"  src=".github/icons/css_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px;"/>][css]
+[<img align ="center" alt="JavaScript"  src=".github/icons/javascript_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px;"/>][javascript]
 [<img align ="center" alt="Python"  src=".github/icons/python_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px"/>][python]
 [<img align ="center" alt="C++"  src=".github/icons/c++_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px;"/>][c++]
 [<img align ="center" alt="Dart" src=".github/icons/dart_icon.svg" style="height:25px;margin-left: 12px; margin-bottom: 6px"/>][dart]
