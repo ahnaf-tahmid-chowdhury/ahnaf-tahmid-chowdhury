@@ -2,10 +2,10 @@
 
 ## Nuclear Engineer
 
-- 🔭 I am currently working on [Osmocom GUI][osmo-gui]!
+- 🔭 I am currently working on [NRMS][nrms]!
 - 🌱 I’m currently learning Kivy
 - 👯 I’m looking for R&D opportunities in nuclear safety and security
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love music and playing guitar
 
 ### Connect with me:
@@ -28,7 +28,7 @@
 [<img align ="center" alt="Bash" src=".github/icons/bash_icon.svg" height="25px" style="margin-left: 12px; margin-bottom: 6px"/>][bash]
 [<img align ="center" alt="Visual Studio Code"  src=".github/icons/vscode_icon.svg" height="25px" style="margin-left: 12px; margin-bottom: 6px"/>][vscode]
 [<img align ="center" alt="Azure"  src=".github/icons/azure_icon.svg" height="25px" style="margin-left: 12px; margin-bottom: 6px"/>][azure]
-[<img align ="center" alt="Node-RED"  src=".github/icons/postgresql_icon.svg" height="25px" style="margin-left: 12px; margin-bottom: 6px"/>][postgresql]
+[<img align ="center" alt="PostgreSQL"  src=".github/icons/postgresql_icon.svg" height="25px" style="margin-left: 12px; margin-bottom: 6px"/>][postgresql]
 [<img align ="center" alt="Node-RED"  src=".github/icons/nodered_icon.svg" height="25px" style="margin-left: 12px; margin-bottom: 6px"/>][node-red]
 [<img align ="center" alt="KiCad"  src=".github/icons/KiCad_icon.svg" height="25px" style="margin-left: 12px; margin-bottom: 6px"/>][kicad]
 
@@ -39,7 +39,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=68775305)
 
 [website]: https://ahnaf-tahmid.blogspot.com
-[osmo-gui]: https://github.com/ahnaf-tahmid-chowdhury/osmo-gui
+[nrms]: https://nrms.tech
 [twitter]: https://twitter.com/tahmid__
 [youtube]: https://www.youtube.com/channel/UC1PqPjoQIsjNKmiiALeXYnw
 [instagram]: https://instagram.com/_.ahnaf_tahmid._
