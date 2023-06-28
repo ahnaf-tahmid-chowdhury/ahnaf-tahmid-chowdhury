@@ -3,8 +3,8 @@
 ## Nuclear Engineer
 
 - 🔭 I am currently working on [NRMS][nrms]!
-- 🌱 I’m currently learning Kivy
-- 👯 I’m looking for R&D opportunities in nuclear safety and security
+- 🌱 I’m currently learning Cirq & Qiskit
+- 👯 I’m looking for R&D opportunities in quantum computing for nuclear industry applications
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love music and playing guitar
 
