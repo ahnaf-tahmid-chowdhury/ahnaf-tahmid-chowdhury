@@ -4,7 +4,7 @@
 
 - 🔭 I am currently working on [NRMS][nrms]!
 - 🌱 I’m currently learning Cirq & Qiskit
-- 👯 I’m looking for R&D opportunities in quantum computing for nuclear industry applications
+- 👯 I’m looking for R&D opportunities in Quantum Computing for Nuclear Applications
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love music and playing guitar
 
