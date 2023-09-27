@@ -39,7 +39,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=68775305)
 
 [website]: https://ahnaf-tahmid.blogspot.com
-[nrms]: https://nrms.tech
+[nrms]: https://nrms.mist.ac.bd
 [twitter]: https://twitter.com/tahmid__
 [youtube]: https://www.youtube.com/channel/UC1PqPjoQIsjNKmiiALeXYnw
 [instagram]: https://instagram.com/_.ahnaf_tahmid._
