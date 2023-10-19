@@ -2,7 +2,7 @@
 
 ## Nuclear Engineer
 
-- 🔭 I am currently working on [NRMS][nrms]!
+- 🔭 I am currently working on [NukeHub][nukehub]!
 - 🌱 I’m currently learning Cirq & Qiskit
 - 👯 I’m looking for R&D opportunities in Quantum Computing for Nuclear Applications
 - 🥅 2023 Goals: Contribute more to Open Source projects
@@ -39,7 +39,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=68775305)
 
 [website]: https://ahnaf-tahmid.blogspot.com
-[nrms]: https://nrms.mist.ac.bd
+[nukehub]: https://nukehub.org
 [twitter]: https://twitter.com/tahmid__
 [youtube]: https://www.youtube.com/channel/UC1PqPjoQIsjNKmiiALeXYnw
 [instagram]: https://instagram.com/_.ahnaf_tahmid._
