@@ -3,9 +3,9 @@
 ## Nuclear Engineer
 
 - 🔭 I am currently working on [NukeHub][nukehub]!
-- 🌱 I’m currently learning Cirq & Qiskit
-- 👯 I’m looking for R&D opportunities in Quantum Computing for Nuclear Applications
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning [Cardinal](https://cardinal.cels.anl.gov/)
+- 👯 I’m looking for R&D opportunities in Nuclear Fusion
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love music and playing guitar
 
 ### Connect with me:
